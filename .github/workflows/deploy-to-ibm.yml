@@ -107,3 +107,4 @@ jobs:
         apiKey: ${{ secrets.CF_API_KEY_CF }}
         email: ${{ secrets.CF_EMAIL_CF }}
         workingDirectory: 'workers'
+
